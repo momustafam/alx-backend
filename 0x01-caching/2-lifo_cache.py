@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """LIFOCache Module"""
 from base_caching import BaseCaching

@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """BasicCache Module"""
 from base_caching import BaseCaching
